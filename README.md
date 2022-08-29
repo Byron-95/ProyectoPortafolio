@@ -1,2 +1,4 @@
-# ProyectoPortafolio
-Iteración 1 - Proyecto - Restaurant Siglo XXI 
+# Proyecto Portafolio
+Proyecto - Restaurant Siglo XXI 
+- Iteración 1
+- Versión: V1.0
